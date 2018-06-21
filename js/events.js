@@ -22,6 +22,6 @@ function frameIt() {
 
 function pressIt() {
   $('form').on('keydown', function(key) {
-    if
+    if(key.which == 71)
   })
 }
