@@ -19,9 +19,3 @@ function frameIt() {
     $('img').addClass('tasty');
   })
 }
-
-function pressIt() {
-  $('form').on('keydown', function(key) {
-    if(key.which == )
-  })
-}
